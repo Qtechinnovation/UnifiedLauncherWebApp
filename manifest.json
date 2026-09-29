@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "UnifiedLauncher",
+    "version": "1.0",
+    "description": "A Decentralized, Local, Cross Platform Web App Store.",
+    "default_locale": "en",
+    "permissions": [
+        "fileSystem", "tabs"
+    ]
+}
